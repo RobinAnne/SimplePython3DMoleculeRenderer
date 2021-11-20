@@ -1,5 +1,5 @@
-
-This private repository is only meant for demonsration purposes. Please do not distribute.
+# Read Me
+This private repository is only meant for demonstration purposes. Please do not distribute.
 
 ## Credits
 Adapted from hnhaefliger's PyEngine3D

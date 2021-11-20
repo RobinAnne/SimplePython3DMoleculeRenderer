@@ -1,5 +1,5 @@
 # Read Me
-This private repository is only meant for demonstration purposes. Please do not distribute.
+This repository is only meant for demonstration purposes. Please do not distribute.
 
 ## Features
 * Parses molecular data files from 3DChem or MolView

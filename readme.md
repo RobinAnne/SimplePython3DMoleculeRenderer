@@ -1,6 +1,14 @@
 # Read Me
 This private repository is only meant for demonstration purposes. Please do not distribute.
 
+## Features
+* Parses molecular data files from 3DChem or MolView
+* Zooming, rotating (dragging), translating (arrowkeys), etc.
+* FPS Counter
+* Configurable colours, sizes, etc.
+
+![Alt text](Untitled.png?raw=true "Title")
+
 ## Required packages
 * NumPy
 * TKinter
